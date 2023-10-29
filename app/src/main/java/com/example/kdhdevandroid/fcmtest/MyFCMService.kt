@@ -49,8 +49,6 @@ class MyFCMService : FirebaseMessagingService() {
         if (remoteMessage.data.isNotEmpty()) {
             //알림생성
             sendNotification(remoteMessage)
-//            Log.d(TAG, remoteMessage.data["title"].toString())
-//            Log.d(TAG, remoteMessage.data["body"].toString())
         } else {
             Log.e(TAG, "data가 비어있습니다. 메시지를 수신하지 못했습니다.")
         }
