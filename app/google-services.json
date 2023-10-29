@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280611376492",
+    "project_id": "fcmtest-kdhd",
+    "storage_bucket": "fcmtest-kdhd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280611376492:android:f886fb03cdeaa599f97749",
+        "android_client_info": {
+          "package_name": "com.example.kdhdevandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcJXoOIA1j8aO9ZzmnrGl_F8RsPTnbZjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
